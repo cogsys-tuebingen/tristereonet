@@ -10,10 +10,10 @@ scalability in depth estimation, this multi-baseline model is promising for long
 and autonomous navigation, where the image content is unpredictable in terms of the distance to the camera.
 
 <div align="center">
-    <p> <b>Self-supervised Learning on Trinocular EISATS Dataset</b> </p>
-    <img src="images/EISATS.gif" alt="drawing" width="621"/>
-    <p> <b>Supervised Learning on Trinocular CARLA Dataset</b> </p>
-    <img src="images/CARLA.gif" alt="drawing" width="621"/>
+    <p> <b>Self-supervised Learning - Trinocular EISATS Dataset</b> </p>
+    <img src="images/EISATS.gif" alt="drawing" height="300"/>
+    <p> <b>Supervised Learning - Trinocular CARLA Dataset</b> </p>
+    <img src="images/CARLA.gif" alt="drawing" height="300"/>
 </div>
 
 To be updated ...
